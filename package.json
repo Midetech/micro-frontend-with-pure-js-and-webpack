@@ -1,0 +1,22 @@
+{
+  "name": "ecommerce-micro-frontend",
+  "version": "1.0.0",
+  "description": "This is implementation of micro frontend using webpack in pure js project and it contains three sub project which are cart, products and container for loading up the whole project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Midetech/micro-frontend-with-pure-js-and-webpack.git"
+  },
+  "keywords": [
+    "micro-frontend"
+  ],
+  "author": "Olomitutu Sunday",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Midetech/micro-frontend-with-pure-js-and-webpack/issues"
+  },
+  "homepage": "https://github.com/Midetech/micro-frontend-with-pure-js-and-webpack#readme"
+}
